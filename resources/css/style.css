@@ -1,0 +1,32 @@
+body {
+  bacground-color: black;
+}
+h1 {
+  font-family: Verdana, sans-serif;
+  font-weight: Normal;
+  font-size: 50px;
+  font-color: white;
+  text-align: center;
+
+}
+h2 {
+  font-family: Verdana, sans-serif;
+  font-weight: 300;
+  font-size: 42px;
+  font-color: white;
+
+}
+p {
+  font-family: Verdana, sans-serif;
+  font-size: 21px;
+  font-color: gray;
+  text-align: center;
+}
+.download {
+  font-color: aquamarine;
+  font-size: 16px;
+}
+.footer {
+  text-align: right;
+  font-color: gray;
+}
